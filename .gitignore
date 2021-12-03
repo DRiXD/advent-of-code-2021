@@ -1,2 +1,7 @@
+*.pyc
 .DS_Store
-venv/
+**/venv/
+**/.vscode/**
+*-checkpoint.ipynb
+**/.ipynb_checkpoints
+**/.pytest_cache
